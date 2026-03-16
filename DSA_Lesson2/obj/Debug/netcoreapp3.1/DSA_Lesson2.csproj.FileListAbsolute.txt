@@ -1,0 +1,13 @@
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.csprojAssemblyReference.cache
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.AssemblyInfoInputs.cache
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.AssemblyInfo.cs
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.csproj.CoreCompileInputs.cache
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\bin\Debug\netcoreapp3.1\DSA_Lesson2.exe
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\bin\Debug\netcoreapp3.1\DSA_Lesson2.deps.json
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\bin\Debug\netcoreapp3.1\DSA_Lesson2.runtimeconfig.json
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\bin\Debug\netcoreapp3.1\DSA_Lesson2.runtimeconfig.dev.json
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\bin\Debug\netcoreapp3.1\DSA_Lesson2.dll
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\bin\Debug\netcoreapp3.1\DSA_Lesson2.pdb
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.dll
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.pdb
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Lesson2\obj\Debug\netcoreapp3.1\DSA_Lesson2.genruntimeconfig.cache

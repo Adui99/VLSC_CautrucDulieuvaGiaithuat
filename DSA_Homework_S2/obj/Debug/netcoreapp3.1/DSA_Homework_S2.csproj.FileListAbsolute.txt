@@ -1,0 +1,13 @@
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\bin\Debug\netcoreapp3.1\DSA_Homework_S2.exe
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\bin\Debug\netcoreapp3.1\DSA_Homework_S2.deps.json
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\bin\Debug\netcoreapp3.1\DSA_Homework_S2.runtimeconfig.json
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\bin\Debug\netcoreapp3.1\DSA_Homework_S2.runtimeconfig.dev.json
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\bin\Debug\netcoreapp3.1\DSA_Homework_S2.dll
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\bin\Debug\netcoreapp3.1\DSA_Homework_S2.pdb
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.csprojAssemblyReference.cache
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.AssemblyInfoInputs.cache
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.AssemblyInfo.cs
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.csproj.CoreCompileInputs.cache
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.dll
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.pdb
+D:\Adui\VLSC_CautrucDulieuvaGiaithuat\DSA_Homework_S2\obj\Debug\netcoreapp3.1\DSA_Homework_S2.genruntimeconfig.cache
