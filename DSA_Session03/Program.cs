@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-// Author: Nguyễn Văn A - 20280123
+// Author: Hoang Khuong Duy - 2500114656
 // Mục tiêu: So sánh hiệu năng giữa Linear Search và Binary Search trên mảng đã sắp xếp
 
 class Program {
