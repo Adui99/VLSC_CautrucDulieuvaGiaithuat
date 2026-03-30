@@ -71,7 +71,7 @@ namespace DSA_Session04_Sorting
                 //Bien j de duyet nguoc lai phan da sap xep
                 int j = i - 1;
                 //Di chuyen cac phan tu lon hon key sang phai
-                while (j >= 0 && arr[i] > key)
+                while (j >= 0 && arr[j] > key)
                 {
                     arr[j + 1] = arr[j];
                     j--;
